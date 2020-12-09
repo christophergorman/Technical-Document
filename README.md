@@ -38,7 +38,6 @@
       <ul>
         <li>
           Have a Conversation. When you play a tabletop RPG, you're having a conversation. </li>
-
         <li>Embrace Challenges. The gamemaster's job is to challenge the players and place their characters into dramatic and difficult situations.</li>
         <li>Make a Character That Stands Out.</li>
         <li>Share the Stage.</li>
@@ -145,3 +144,4 @@
     </article>
   </section>
 </main>
+</html>
